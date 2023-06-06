@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "119353858395",
+    "project_id": "chori-a8d57",
+    "storage_bucket": "chori-a8d57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119353858395:android:cbe545c78ffe8fb1d4227e",
+        "android_client_info": {
+          "package_name": "com.dreamer.ecom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119353858395-rmo5bin35p5jrn8f58844b3go9s7lqtj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjJVboR5sHS11zPPcJAMeQnf0rx2UX1E0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119353858395-rmo5bin35p5jrn8f58844b3go9s7lqtj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "119353858395-l9e7rlna0hsqfncn32f8v6nddg3i0ksm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shopNow"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119353858395:android:484b057651264128d4227e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119353858395-rmo5bin35p5jrn8f58844b3go9s7lqtj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjJVboR5sHS11zPPcJAMeQnf0rx2UX1E0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119353858395-rmo5bin35p5jrn8f58844b3go9s7lqtj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "119353858395-l9e7rlna0hsqfncn32f8v6nddg3i0ksm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shopNow"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119353858395:android:87f50ee62235cf84d4227e",
+        "android_client_info": {
+          "package_name": "com.example.shop_now"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119353858395-rmo5bin35p5jrn8f58844b3go9s7lqtj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjJVboR5sHS11zPPcJAMeQnf0rx2UX1E0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119353858395-rmo5bin35p5jrn8f58844b3go9s7lqtj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "119353858395-l9e7rlna0hsqfncn32f8v6nddg3i0ksm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shopNow"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
